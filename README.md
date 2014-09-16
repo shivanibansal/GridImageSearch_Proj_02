@@ -35,4 +35,4 @@
     *   (Stretch):  Use the StaggeredGridView to display visually interesting image results
 
 **Walkthrough of app** :<br>
- 
+ ![Video Walkthrough](GridImageSearch_Proj_02.gif) 
