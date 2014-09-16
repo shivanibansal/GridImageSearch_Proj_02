@@ -34,5 +34,7 @@
     *   (Stretch):  User can zoom or pan images displayed in full-screen detail view
     *   (Stretch):  Use the StaggeredGridView to display visually interesting image results
 
+***Time spent around 14 hours*** <br>
+
 **Walkthrough of app** :<br>
  ![Video Walkthrough](GridImageSearch_Proj_02.gif) 
