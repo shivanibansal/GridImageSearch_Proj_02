@@ -277,7 +277,7 @@ public class ImageSearchActivity extends Activity {
 					if (HttpResponseCode == 400) {
 						Toast.makeText(getBaseContext(), "No More Data Available", Toast.LENGTH_SHORT).show();
 						return;
-					} else if (HttpResponseCode == 400) {
+					} else if (HttpResponseCode != 200) {
 						Toast.makeText(getBaseContext(), "Unable to process request this time", Toast.LENGTH_SHORT).show();
 						return;
 					}
